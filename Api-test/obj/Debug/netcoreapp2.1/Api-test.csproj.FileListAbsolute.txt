@@ -1,0 +1,14 @@
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Api-test.deps.json
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Api-test.runtimeconfig.json
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Api-test.runtimeconfig.dev.json
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Api-test.dll
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Api-test.pdb
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/stringUtility.dll
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/stringUtility.pdb
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.csprojAssemblyReference.cache
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.csproj.CoreCompileInputs.cache
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.AssemblyInfoInputs.cache
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.AssemblyInfo.cs
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.csproj.CopyComplete
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.dll
+/home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.pdb

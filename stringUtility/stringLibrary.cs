@@ -13,7 +13,7 @@ namespace stringUtility
             Char ch = str[0];
             return Char.IsUpper(ch);
         }
- 
+        // This function is also for the test purpose
         public bool IsStringPalindrome(string str){
              string revs="";
             for (int i = str.Length-1; i >=0; i--) //String Reverse
@@ -28,7 +28,9 @@ namespace stringUtility
             {
                return false;
             }
+    
+
         }
-    }
+    }// end of stringutility
 }
 
