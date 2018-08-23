@@ -1,0 +1,14 @@
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csprojAssemblyReference.cache
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.AssemblyInfoInputs.cache
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.AssemblyInfo.cs
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.deps.json
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.runtimeconfig.json
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.runtimeconfig.dev.json
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.dll
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.pdb
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/stringUtility.dll
+/home/esmee/CLibrary/ConsoleApplication1/bin/Debug/netcoreapp2.1/stringUtility.pdb
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csproj.CopyComplete
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.dll
+/home/esmee/CLibrary/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.pdb

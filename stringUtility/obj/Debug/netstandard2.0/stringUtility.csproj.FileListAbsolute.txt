@@ -1,0 +1,9 @@
+/home/esmee/CLibrary/stringUtility/bin/Debug/netstandard2.0/stringUtility.deps.json
+/home/esmee/CLibrary/stringUtility/bin/Debug/netstandard2.0/stringUtility.dll
+/home/esmee/CLibrary/stringUtility/bin/Debug/netstandard2.0/stringUtility.pdb
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.csprojAssemblyReference.cache
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.csproj.CoreCompileInputs.cache
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.AssemblyInfoInputs.cache
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.AssemblyInfo.cs
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.dll
+/home/esmee/CLibrary/stringUtility/obj/Debug/netstandard2.0/stringUtility.pdb
