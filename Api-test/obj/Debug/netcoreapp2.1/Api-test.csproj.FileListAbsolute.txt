@@ -12,3 +12,5 @@
 /home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.csproj.CopyComplete
 /home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.dll
 /home/esmee/CLibrary/Api-test/obj/Debug/netcoreapp2.1/Api-test.pdb
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Exception.dll
+/home/esmee/CLibrary/Api-test/bin/Debug/netcoreapp2.1/Exception.pdb

@@ -208,6 +208,16 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exception.dll": {}
+        }
+      },
       "stringUtility/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -684,6 +694,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Exception/1.0.0": {
+      "type": "project",
+      "path": "../Exception1/Exception.csproj",
+      "msbuildProject": "../Exception1/Exception.csproj"
+    },
     "stringUtility/1.0.0": {
       "type": "project",
       "path": "../stringUtility/stringUtility.csproj",
@@ -692,6 +707,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Exception >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "stringUtility >= 1.0.0"
     ]
@@ -724,6 +740,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "/home/esmee/CLibrary/Exception1/Exception.csproj": {
+              "projectPath": "/home/esmee/CLibrary/Exception1/Exception.csproj"
+            },
             "/home/esmee/CLibrary/stringUtility/stringUtility.csproj": {
               "projectPath": "/home/esmee/CLibrary/stringUtility/stringUtility.csproj"
             }

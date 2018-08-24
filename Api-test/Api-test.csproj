@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\stringUtility\stringUtility.csproj" />
+    <ProjectReference Include="..\Exception\Exception.csproj" />
+    <ProjectReference Include="..\Exception1\Exception.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

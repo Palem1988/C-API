@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v2.1": {
       "Api-test/1.0.0": {
         "dependencies": {
+          "Exception": "1.0.0",
           "stringUtility": "1.0.0"
         },
         "runtime": {
           "Api-test.dll": {}
+        }
+      },
+      "Exception/1.0.0": {
+        "runtime": {
+          "Exception.dll": {}
         }
       },
       "stringUtility/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Api-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -28,9 +28,12 @@ namespace stringUtility
             {
                return false;
             }
-    
-
         }
+
+        // public void BadResponseException()
+        // {
+        //     Console.WriteLine("BadResponseException");
+        // }
     }// end of stringutility
 }
 
